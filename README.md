@@ -4,7 +4,9 @@
 # KELAS : TI 22 A3
 # PACKAGE & MODULE
 ## **Tugas ini berdasarkan praktikum sebelumnya dengan struktur seperti ini:**
-![Gambar 1](uas/tugas.png)
+
+
+
 ## ***``daftar_nilai.py`` berisi modul untuk :***
 ## ***tambah_data***
 ```python
