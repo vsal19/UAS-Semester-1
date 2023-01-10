@@ -1,7 +1,7 @@
 # UAS-Semester-1
-# NAMA : MUHAMMAD FAISAL ILHAM
-# NIM : 312210322
-# KELAS : TI 22 A3
+## NAMA : MUHAMMAD FAISAL ILHAM
+## NIM : 312210322
+## KELAS : TI 22 A3
 # PACKAGE & MODULE
 ## **Tugas ini berdasarkan praktikum sebelumnya dengan struktur seperti ini:**
 
